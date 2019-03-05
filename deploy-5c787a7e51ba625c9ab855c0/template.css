@@ -1,0 +1,164 @@
+body {
+    background-color: #cceeff;
+
+}
+
+h1.title {
+    color: #4dd2ff;
+    text-align: center;
+    font-family: cursive;
+    border-style: groove;
+    border-width: 20px;
+    background: #0099cc;
+    border-color: #80d4ff;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #004d99;
+  border-width:5px;
+  border-style:groove;
+  border-color:#004080;
+  font-family:sans-serif;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #33ccff;
+  color: white;
+}
+
+div.yeah {
+  background-color: lightblue;
+  border-style: groove;
+  border-width: 25px;
+  border-color: #00a8e6;
+  height: 1000px;
+}
+img.border {
+border-radius: 25px;
+border-style: groove;
+border-width: 10px;
+}
+
+p.center {
+  text-align: center;
+  font-family: monospace;
+}
+
+a.library {
+font-family: monospace;
+color: white;
+font-size:30px;
+text-decoration: none;
+}
+
+@font-face {
+  font-family: test;
+  src: url(anton-regular.tff);
+}
+
+h2.blogtitle {
+  font-family:sans-serif;
+  font-size:35px;
+}
+
+p.blogpar {
+  font-family:sans-serif;
+}
+
+.item{
+  text-align:center;
+  display:block;
+  background-color: transparent;
+  border: 1px solid transparent;
+  margin-right: 10px;
+  margin-bottom: 1px;
+  float:left;
+  border-color:#002538;
+  border-width:5px;
+  border-style:grooves;
+  background-color: #005c89;
+  text-decoration: none;
+}
+
+#index-gallery{
+  width:465px;
+}
+
+p.white{
+  color:white;
+  font-family:sans-serif;
+}
+
+img.256px{
+  width:256px
+  length   ;256px
+}
+
+h1.projecttitle{
+  font-family:monospace;
+  text-align:center;
+  font-size:50px;
+  color:white;
+  border-color:#00497a;
+  border-width:5px;
+  border-style:inset;
+  background-color:#005b99;
+}
+
+div.eyy {
+  font-size: 18px;
+  vertical-align: top;
+  box-sizing: border-box;
+  display:inline-block;
+  width:33.333333333333%;
+  height:85.5%;
+  float:left;
+  border-style:ridge;
+      border-color:#002538;
+  border-width:5px;
+  border-style:grooves;
+  background-color: #005c89;
+  text-decoration: none;
+  text-align-last: center;    
+}
+
+div.pt {
+   color: #4dd2ff;
+  text-align: center;
+  font-family: cursive;
+  border-style: groove;
+  border-width: 20px;
+  background: #0099cc;
+  border-color: #80d4ff;
+} 
+
+p.pdesc {
+    text-align:center;
+}
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
